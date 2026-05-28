@@ -1,4 +1,4 @@
-import { useState, ChangeEvent, FormEvent } from 'react';
+import { useState, type ChangeEvent, type FormEvent } from 'react';
 import { User, Mail, Phone, Link2, GraduationCap, Shirt } from 'lucide-react';
 // Note: Linkedin icon is removed from import since it is not provided by lucide-react in the way we imported it.
 
